@@ -732,7 +732,7 @@ rect[fill="#f04747"],
 
 .typing-2GQL18 {
     position: absolute;
-    bottom: 25px;
+    top: -25px;
     left: 1em;
     right: 0;
     font-size: 12.5px;
